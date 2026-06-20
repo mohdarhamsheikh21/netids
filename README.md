@@ -29,8 +29,13 @@ sudo python3 netids.py --list-interfaces
 Python 3 · Scapy · Kali Linux
 
 ## Screenshots
-<img width="815" height="435" alt="Screenshot 2026-06-20 221540" src="https://github.com/user-attachments/assets/8decb906-a53c-41a4-bff5-8183a3baf300" />
-<img width="809" height="447" alt="Screenshot 2026-06-20 221508" src="https://github.com/user-attachments/assets/5bf8db0b-f5fb-4400-885d-83dbb7f89fd9" />
-<img width="643" height="263" alt="Screenshot 2026-06-20 221123" src="https://github.com/user-attachments/assets/682aa9b2-1ab0-47e2-b102-aa42fad8a6a7" />
-<img width="628" height="252" alt="Screenshot 2026-06-20 220949" src="https://github.com/user-attachments/assets/e72a17ff-5e36-4d0b-9104-cb5bc3ed6a7b" />
-<img width="321" height="240" alt="Screenshot 2026-06-20 220008(1)" src="https://github.com/user-attachments/assets/8e16e2a6-2295-4eea-8ea1-984466b15059" />
+
+<img width="321" height="240" alt="Screenshot 2026-06-20 220008(1)" src="https://github.com/user-attachments/assets/434f70db-93cb-4dc5-9184-1b039f3e22ae" />
+<img width="628" height="252" alt="Screenshot 2026-06-20 220949" src="https://github.com/user-attachments/assets/f71e0424-0bcd-4a4b-82ec-bc67fc37f6c4" />
+<img width="643" height="263" alt="Screenshot 2026-06-20 221123" src="https://github.com/user-attachments/assets/bf86311c-831f-40dd-8774-00a0505a8d57" />
+
+<img width="809" height="447" alt="Screenshot 2026-06-20 221508" src="https://github.com/user-attachments/assets/5cf7835d-8091-4362-a2c4-55a7a94933a2" />
+
+<img width="815" height="435" alt="Screenshot 2026-06-20 221540" src="https://github.com/user-attachments/assets/61013263-f46f-4a2b-819f-e3d852fbb9b5" />
+
+
